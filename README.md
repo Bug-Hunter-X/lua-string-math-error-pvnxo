@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Lua programming where arithmetic operations are performed on strings.  The `bug.lua` file contains a function that attempts to add 1 to a string, resulting in a runtime error. The `bugSolution.lua` file shows how to correctly handle this situation by using type checking or error handling.
